@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Library>
+    <Book category="Cookery">
+        <ISBN>9780732290153</ISBN>
+        <book_title>Commonsense Cookery Book 1</book_title>
+        <author>Home Economics Institute of Australia</author>
+
+        <ISBN>9781911216650</ISBN>
+        <book_title>Gennaro's Passione : The Classic Italian Cookery Book</book_title>
+        <author>Gennaro Contaldo</author>
+    </Book>
+    <Book category="Technical">
+        <ISBN>9781456468699</ISBN>
+        <book_title>Charting and Technical Analysis</book_title>
+        <author>Fred McAllen</author>
+
+        <ISBN>9780471295426</ISBN>
+        <book_title>Getting Started in Technical Analysis</book_title>
+        <author>Jack D. Schwager</author>
+    </Book>
+</Library>
